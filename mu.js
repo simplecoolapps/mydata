@@ -1,0 +1,3 @@
+function getAdP(){
+  return "admob";
+}
